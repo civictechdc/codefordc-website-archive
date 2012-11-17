@@ -27,5 +27,5 @@ To tweak the css, go to assets/themes/the-program/css
 
 The site content is in [Markdown](http://daringfireball.net/projects/markdown/dingus) format in the following files: index.md, projects.md, and team.md
 
-## Jekyll Boostrap
+## Jekyll Bootstrap
 This site is powered by [Jekyll](https://github.com/mojombo/jekyll) and [Jekyll Bootstrap](http://jekyllbootstrap.com).
