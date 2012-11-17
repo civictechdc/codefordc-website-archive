@@ -1,0 +1,12 @@
+
+http://codefordc.org/archive.html
+http://codefordc.org/atom.xml
+http://codefordc.org/categories.html
+http://codefordc.org/index.html
+http://codefordc.org/pages.html
+http://codefordc.org/projects.html
+http://codefordc.org/sitemap.txt
+http://codefordc.org/tags.html
+http://codefordc.org/team.html
+
+http://codefordc.org/lessons/2011/12/29/jekyll-introduction
