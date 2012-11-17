@@ -33,13 +33,13 @@ Josh is the author of [Open Government Data](http://opengovdata.io), and is the 
 ## Harlan Harris / [@HarlanH](http://twitter.com/HarlanH/)
 Harlan is a Data Scientist and co-organizer of the [Data Science DC Meetup](http://www.meetup.com/Data-Science-DC/).
 
-## Harlan Yu // [@harlanyu](https://twitter.com/harlanyu)
+## Harlan Yu / [@harlanyu](https://twitter.com/harlanyu)
 Harlan is a Principal at [Robinson & Yu](http://www.robinsonyu.com). He holds a Ph.D. in computer science from Princeton University, where his research centered on designing software to make the U.S. Congress and the federal courts more transparent and understandable to citizens.
 
 ## Karan Jain / [@niajnarak](http://twitter.com/niajnarak)
 Karan is the founder and CEO of [Clovest](http://clovest.com).
 
-## Yusuf Abdi // [@yabdi](https://twitter.com/yabdi)
+## Yusuf Abdi / [@yabdi](https://twitter.com/yabdi)
 Yusuf is currently focusing on how new technology can be used to bring education to the 21st century. 
 
 ## Clarence
