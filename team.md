@@ -16,8 +16,8 @@ In January 2013, [Moncef](http://www.moncefbelyamani.com/about/) will be joining
 
 Most recently, he led the iOS automation effort on the [AOL Mobile](http://mobile.aol.com/) team, running tests with [Calabash](http://www.moncefbelyamani.com/ios-automated-testing-with-calabash-cucumber-ruby), Cucumber and Ruby.
 
-## Sandra Moscoso
-Sandra is currently in charge of developing the World Bank's Financial Open Data web program.
+## Sandra Moscoso / [@sandramoscoso](http://twitter.com/sandramoscoso)
+Sandra is currently in charge of developing the [World Bank's Financial Open Data](https://finances.worldbank.org/) web program.
 
 ## Laurenellen McCann / [@elle_mccann](http://twitter.com/elle_mccann)
 Laurenellen is the National Policy Manager at [Sunlight Foundation](http://www.sunlightfoundation.com/).
