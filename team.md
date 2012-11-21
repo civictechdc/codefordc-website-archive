@@ -39,6 +39,8 @@ Harlan is a Principal at [Robinson & Yu](http://www.robinsonyu.com). He holds a 
 ## Karan Jain / [@niajnarak](http://twitter.com/niajnarak)
 Karan is the founder and CEO of [Clovest](http://clovest.com).
 
+## Greg Schnippel / [@schnippy](http://twitter.com/schnippy)
+
 ## Yusuf Abdi / [@yabdi](https://twitter.com/yabdi)
 Yusuf is currently focusing on how new technology can be used to bring education to the 21st century. 
 
