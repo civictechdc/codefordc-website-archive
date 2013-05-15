@@ -6,7 +6,7 @@ description: "The Code for DC team members"
 {% include JB/setup %}
 
 ##Matt Bailey / [@MattBailey0](https://twitter.com/MattBailey0)
-Matt is the co-founder of the Code for DC group and CTO at [Citizen Effect](http://citizeneffect.org).
+Matt is the co-founder of the Code for DC group and Technology Strategist at [CFPB](http://www.consumerfinance.gov/).
 
 ##Justin Grimes / [@justgrimes](https://twitter.com/justgrimes)
 Justin is the other founder of the Code for DC group and is a PhD student of Information Studies at the University of Maryland College Park.
@@ -29,6 +29,9 @@ Liz is a Special Projects Manager at DC Gov's [OCTO](http://octo.dc.gov).
 Josh is the author of [Open Government Data](http://opengovdata.io), and is the creator of the Congress-tracking tool [GovTrack.us](http://www.govtrack.us/), which launched in 2004 and spurred the national open government data community. He was also a co-founder of [POPVOX](http://www.popvox.com/), a platform for advocacy. 
 
 ## Greg Bloom / [@greggish](http://twitter.com/greggish)
+
+## Rebecca Williams / [@internetrebecca](http://twitter.com/internetrebecca)
+Rebecca is a Policy Analyst at [Sunlight Foundation](http://www.sunlightfoundation.com/).
 
 ## Harlan Harris / [@HarlanH](http://twitter.com/HarlanH/)
 Harlan is a Data Scientist and co-organizer of the [Data Science DC Meetup](http://www.meetup.com/Data-Science-DC/).
