@@ -47,4 +47,5 @@ Karan is the founder and CEO of [Clovest](http://clovest.com).
 ## Yusuf Abdi / [@yabdi](https://twitter.com/yabdi)
 Yusuf is currently focusing on how new technology can be used to bring education to the 21st century. 
 
-## Clarence
+## Leah Bannon / [@leahbannon](http://twitter.com/leahbannon)
+Leah is the open gov and digital strategy lead for a small fed gov agency is currently working on [ANC Brigade](http://ancbrigade.com)
